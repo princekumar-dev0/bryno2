@@ -1,4 +1,4 @@
 # bryno2
 This is my 2nd git repository
 <br>
-Author-Prince Kumar
+Author-Prince Kumar chauhan
